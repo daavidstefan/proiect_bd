@@ -1,0 +1,11 @@
+---MERGE DOAR DACA AI WAMPSERVER INSTALAT---
+
+-> salveaza fisierul in 'C:\wamp64\www' (probabil asta e locatia unde s-a instalat automat, daca nu, modifica path-ul)
+
+-> ruleaza WAMPSERVER
+
+-> deschide consola sql ca la laborator si ruleaza scriptul: 'SOURCE C:/wamp64/www/site_BD/tabele.sql;'
+
+-> deschide browserul si da paste la acest link: http://localhost/site_BD/welcome.html
+
+-> pentru a testa functionalitatile site-ului, poti sa te conectezi folosind contul asta: user: 'popescuion@yahoo.com' | parola: 'test'
